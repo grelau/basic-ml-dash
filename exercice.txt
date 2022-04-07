@@ -1,0 +1,17 @@
+Exercice 1
+
+1. Create a app.py file which create a simple streamlit a
+application displaying hello
+
+2. run the build_app.py file to save the scikit learn model
+into a file 
+
+3. With joblib, load the model into streamlit
+
+4. Display the prediction of the model with X1 = 0, X2 = 1 
+
+5. Add two input fields into the streamlit so that the user can
+specify X1 and X2. 
+
+6. Make sure that the model used the user defined inputs
+
